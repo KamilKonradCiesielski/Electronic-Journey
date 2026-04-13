@@ -16,7 +16,7 @@ Welcome to my repository dedicated to exploring the world of electronics. Here I
 
 Each folder contains a standalone project including visual documentation (screenshots or schematics), a Bill of Materials (BOM), and any necessary firmware.
 
-1. **[Touch-Activated Alarm](./01_Rock_Paper_Scissors)** – a simple security-style circuit practicing the Set/Reset logic. It focuses on using a transistor as a switch (BC547) to control high-current components like a buzzer based on the 555 timer's output state.
+1. **[Touch-Activated Alarm](./01_Touch_Activated_Alarm)** – a simple security-style circuit practicing the Set/Reset logic. It focuses on using a transistor as a switch (BC547) to control high-current components like a buzzer based on the 555 timer's output state.
 
 ---
 ### 📖 How to navigate this repo
