@@ -10,7 +10,6 @@ Welcome to my repository dedicated to exploring the world of electronics. Here I
 * **Online Lab:** [Tinkercad](https://www.tinkercad.com/) – used for quick circuit sketching and Arduino-based simulations.
 * **Physical Prototyping:** Solderless Breadboards – for real-world verification and hands-on testing.
 * **Focus:** Circuit logic, analog signal processing, and component behavior (without moving to PCB production yet).
-* 
 ---
 
 ## 📁 Projects Directory
